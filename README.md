@@ -8,7 +8,7 @@ In these files you will find 3/4 main modules that can work separately, but they
 These modules are aimed to collect in real time the input data of controllers and the subsecuent display of them to give the user some feedback; in this progect a space navigator and an xbox controller are used. You could use other controllers as long as you configurate properly its code to read and the sub-libraries to be sent to other modules.
 
 (data traductor to EGM):
-The traductor utilizes the sub-libraries of the previous stage to transform the into a operation file via the python libraries: abb_robot_client.egm // abb_motion_program_exec. The way it all works allos to operate the robotic arm via PoseMode (given a position the robot moves to it, so as we alter this position in real time the robot follows as well) and via JointMode (we altrt the angle value of the joints in a similar way)
+The traductor utilizes the sub-libraries of the previous stage to transform the into a operation file via the python libraries: abb_robot_client.egm // abb_motion_program_exec. The way it all works allows to operate the robotic arm via PoseMode (given a position the robot moves to it, so as we alter this position in real time the robot follows as well) and via JointMode (we altrt the angle value of the joints in a similar way)
 
 (Data process {RAPID}):
 The code of processing is developec fully on RAPID and in the RobotStudio environment of ABB, with a robotic controller IRC5 and a robotic arm IRB-12000. Meanwile other robotica arms with a simiar movemente architecture (DoF 6) could be suitable for the operation, the proyect have not been proven in other robotic controllers.
