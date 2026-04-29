@@ -14,7 +14,11 @@ The traductor utilizes the sub-libraries of the previous stage to transform the 
 The code of processing is developec fully on RAPID and in the RobotStudio environment of ABB, with a robotic controller IRC5 and a robotic arm IRB-12000. Meanwile other robotica arms with a simiar movemente architecture (DoF 6) could be suitable for the operation, the proyect have not been proven in other robotic controllers.
 If, at some point, the arm passes under a singularity or it is set beyond its geometry or motor force, the program stops to prevent any mishap. The you are forced to reset the modules.
 
-(./misc/Grabación Egm Xbox(1).mp4)
+![Xbox controller case](./misc/xbox_img.png)
+
+![3D mouse controller case](./misc/ns_img.png)
+
+![video1](./misc/Grabaci%C3%B3n%20Egm%20Xbox(1).mp4)
 
 (Images and instructions on the setup yet to be setted)
 
