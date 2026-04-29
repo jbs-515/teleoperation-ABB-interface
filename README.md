@@ -16,9 +16,10 @@ If, at some point, the arm passes under a singularity or it is set beyond its ge
 
 ![Xbox controller case](./misc/xbox_img.png)
 
-![3D mouse controller case](./misc/ns_img.png)
+![3D mouse controller case](./misc/ns_image.png)
 
-![video1](./misc/Grabaci%C3%B3n%20Egm%20Xbox(1).mp4)
+![videos](./misc)
+
 
 (Images and instructions on the setup yet to be setted)
 
