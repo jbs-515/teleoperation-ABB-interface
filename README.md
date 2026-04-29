@@ -14,6 +14,8 @@ The traductor utilizes the sub-libraries of the previous stage to transform the 
 The code of processing is developec fully on RAPID and in the RobotStudio environment of ABB, with a robotic controller IRC5 and a robotic arm IRB-12000. Meanwile other robotica arms with a simiar movemente architecture (DoF 6) could be suitable for the operation, the proyect have not been proven in other robotic controllers.
 If, at some point, the arm passes under a singularity or it is set beyond its geometry or motor force, the program stops to prevent any mishap. The you are forced to reset the modules.
 
+(./misc/Grabación Egm Xbox(1).mp4)
+
 (Images and instructions on the setup yet to be setted)
 
 WARNING: This way of operation (EGM) deactivates may active security protocols of the robot and the RobotStudio Software; if you are interested consider in adding some pasive security protocols tha fit your needs. So it is to be used in a physical environment with the appropriate equipment and safety procedures, and at your own risk.
